@@ -1,0 +1,1 @@
+https://app.azure.com/dc2273e5-b77e-4b19-ae61-f4b69fb7609c/subscriptions/848cac11-af05-4d3a-b4ac-aa51d1def8e1/resourceGroups/octapussywiggle/providers/Microsoft.Compute/virtualMachines/octapussywiggle
